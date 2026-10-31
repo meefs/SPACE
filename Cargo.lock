@@ -6669,6 +6669,7 @@ dependencies = [
  "pplx-space-common-proto-build",
  "pplx-space-execution-catalog",
  "pplx-space-execution-common",
+ "pplx-space-metrics",
  "pplx-space-net-common",
  "pplx-space-test-env",
  "prost",
